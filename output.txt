@@ -1,0 +1,40 @@
+Old word: AAAA | New word: }}}}
+Old word: BBBB | New word: ~~~~
+People - Old word: CCCC | New word: ⌂⌂⌂⌂
+0 finished his work
+Old word: DDDD | New word: АААА
+People - 1 finished his work
+Old word: EEEE | New word: ББББ
+Old word: FFFF | New word: ВВВВ
+Old word: GGGG | New word: ГГГГ
+Old word: HHHH | New word: ДДДД
+Old word: IIII | New word: ЕЕЕЕ
+Old word: JJJJ | New word: ЖЖЖЖ
+Old word: KKKK | New word: ЗЗЗЗ
+Old word: LLLL | New word: ИИИИ
+Old word: MMMM | New word: ЙЙЙЙ
+Old word: NNNN | New word: КККК
+Old word: OOOO | New word: ЛЛЛЛ
+People - 2 finished his work
+Old word: PPPP | New word: ММММ
+People - 3 finished his work
+Old word: QQQQ | New word: НННН
+People - 4 finished his work
+Old word: RRRR | New word: ОООО
+People - 5 finished his work
+Old word: SSSS | New word: ПППП
+People - 6 finished his work
+Old word: TTTT | New word: РРРР
+People - 7 finished his work
+People - 8 finished his work
+People - 9 finished his work
+People - 10 finished his work
+People - 11 finished his work
+People - 12 finished his work
+People - 13 finished his work
+People - 14 finished his work
+People - 15 finished his work
+People - 16 finished his work
+People - 17 finished his work
+People - 18 finished his work
+People - 19 finished his work
